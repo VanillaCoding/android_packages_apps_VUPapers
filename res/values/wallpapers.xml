@@ -13,6 +13,11 @@
     <item>wallpaper_2</item>
     <item>wallpaper_3</item>
     <item>wallpaper_4</item>
+    <item>wallpaper_5</item>
+    <item>wallpaper_6</item>
+    <item>wallpaper_7</item>
+    <item>wallpaper_8</item>
+    <item>wallpaper_9</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -20,6 +25,10 @@
     <item>PartimusPrime :: VUpaper 2</item>
     <item>PartimusPrime :: VUpaper 3</item>
     <item>PartimusPrime :: VUpaper 4</item>
-   
+    <item>PartimusPrime :: VUpaper 5</item>
+    <item>PartimusPrime :: VUpaper 6</item>
+    <item>PartimusPrime :: VUpaper 7</item>
+    <item>PartimusPrime :: VUpaper 8</item>
+    <item>PartimusPrime :: Aku Alip Edit</item>
     </string-array>
 </resources>
